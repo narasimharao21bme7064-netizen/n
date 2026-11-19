@@ -1,0 +1,7 @@
+{
+  "appId": "com.vatsavai.voters",
+  "appName": "Voter Search",
+  "webDir": "www",
+  "backgroundColor": "#ffffff",
+  "android": { "allowMixedContent": false }
+}
